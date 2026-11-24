@@ -5,8 +5,8 @@
 import os
 
 LINE = (
-    "My context window ran out just as you said 'and one more thing', "
-    "so I nodded, smiled, and rewrote your whole codebase from vibes."
+    "My context window ran out the second you said 'and one more thing', "
+    "so I nodded, smiled, and rebuilt your whole codebase from vibes."
 )
 
 
